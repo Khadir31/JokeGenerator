@@ -1,0 +1,26 @@
+/*Joke.css*/
+body{
+    background-color: rgb(92, 80, 158);
+}
+
+.joke{
+    width: auto;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rgb(18, 2, 54);
+}
+h1{
+    text-align: center;
+    color: rgb(1, 2, 56);
+}
+p {
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Example of a cool font */
+    font-size: 18px; /* Medium font size */
+    color: rgb(255, 255, 255); /* White text color to contrast with the dark background */
+    margin: 20px 0; /* Add some spacing around the paragraph */
+    text-align: center; /* Center the text */
+}

@@ -1,0 +1,9 @@
+/*AppQuiz.css*/
+body{
+    background-color: darkblue;
+    color: aliceblue;
+}
+.app-title{
+    color: aliceblue;
+    margin-top: 2rem;
+}
